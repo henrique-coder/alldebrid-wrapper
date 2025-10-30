@@ -4,9 +4,9 @@
 
 A modern, fully-typed Python wrapper for the [AllDebrid API](https://docs.alldebrid.com).
 
-[![version](https://img.shields.io/badge/dynamic/toml?url=https://raw.githubusercontent.com/henrique-coder/alldebrid-wrapper/main/pyproject.toml&query=$.project.version&label=Version&color=orange)](./pyproject.toml)
-[![python](https://img.shields.io/badge/dynamic/toml?url=https://raw.githubusercontent.com/henrique-coder/alldebrid-wrapper/main/pyproject.toml&query=$.project.requires-python&label=Python&color=blue)](https://www.python.org/downloads)
-[![license](https://img.shields.io/github/license/henrique-coder/alldebrid-wrapper?color=green)](./LICENSE)
+[![Version](https://img.shields.io/badge/dynamic/toml?url=https://raw.githubusercontent.com/henrique-coder/alldebrid-wrapper/main/pyproject.toml&query=$.project.version&label=Version&color=orange)](./pyproject.toml)
+[![Python](https://img.shields.io/badge/dynamic/toml?url=https://raw.githubusercontent.com/henrique-coder/alldebrid-wrapper/main/pyproject.toml&query=$.project.requires-python&label=Python&color=blue)](https://www.python.org/downloads)
+[![License](https://img.shields.io/github/license/henrique-coder/alldebrid-wrapper?color=green)](./LICENSE)
 
 </div>
 
