@@ -1,0 +1,27 @@
+[project]
+name = "alldebrid-wrapper"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+authors = [
+    { name = "Henrique", email = "henriquemoreira10fk@gmail.com" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "httpx>=0.28.1",
+    "orjson>=3.11.4",
+    "pydantic>=2.12.3",
+]
+
+[dependency-groups]
+dev = [
+    "humanize>=4.14.0",
+    "rich>=14.2.0",
+]
+lint = [
+    "ruff>=0.14.2",
+]
+
+[build-system]
+requires = ["uv_build"]
+build-backend = "uv_build"
